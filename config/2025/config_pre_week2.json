@@ -1,8 +1,8 @@
 {
   "title": "QRScout",
-  "page_title": "Reefscape",
+  "page_title": "Bunny Bots 2025",
   "delimiter": "\t",
-  "teamNumber": 2713,
+  "teamNumber": 8726,
   "theme": {
     "light": {
       "background": "0 0% 100%",
@@ -165,7 +165,7 @@
           "defaultValue": false
         },
         {
-          "title": "Timer",
+          "title": "Test",
           "description": "The time it took for the robot to finish autonomous.",
           "type": "timer",
           "required": false,
